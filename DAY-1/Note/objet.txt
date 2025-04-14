@@ -1,0 +1,14 @@
+un objet est une structure de données qui te permet de stocker 
+et organiser des données sous forme de paires clé-valeur.
+
+Exemple d'objet
+    const user = {
+        nom: "Jules",
+        age: 25,
+        saluer: function() {
+            console.log(`Salut ${this.nom}`);
+        }
+    };
+
+    console.log(user.nom); // Jules
+    user.saluer(); // Salut Jules

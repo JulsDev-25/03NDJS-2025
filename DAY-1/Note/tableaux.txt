@@ -1,0 +1,11 @@
+Un tableau en node js stock des objets de défférents types
+
+Syntaxes de déclaration:
+
+    ***Syntaxe 1: const name_array = new Array(elments_tableau)
+        Exemple : const arr = new Array(1,2,3)
+                  console.log(arr) // [1,2,3]
+
+    ***Syntaxe 2: const name_array = [elments_tableau]
+        Exemple : const arr2 = [1,2,3] 
+                  console.log(arr2) // [1,2,3]
