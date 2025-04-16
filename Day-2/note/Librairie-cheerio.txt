@@ -1,0 +1,37 @@
+#***** Cheerio, c’est quoi exactement ? *****#
+
+Cheerio est une librairie JavaScript (et Node.js) qui permet de manipuler 
+du HTML côté serveur, un peu comme jQuery le fait dans le navigateur.
+
+
+#***** À quoi ça sert ? *****#
+
+- Cheerio est principalement utilisé pour :
+- Scraper des pages web (récupérer des données d’un site)
+- Lire, analyser et modifier du HTML statique
+- Naviguer dans le DOM facilement (avec la syntaxe jQuery)
+
+
+#**** Installation de cheerio ****#
+
+- npm install cheerio
+
+
+#**** Exemple rapide ****#
+
+import * as cheerio from 'cheerio';
+
+const html = `<ul>
+                <li>Pikachu</li>
+                <li>Salamèche</li>
+            </ul>`;
+const $ = cheerio.load(html);
+
+$('li').each((i, el) => {
+  console.log($(el).text());
+});
+
+
+#**** Scraping d’un site avec fromURL ****#
+
+- const $ = await cheerio.fromURL("https://...");
