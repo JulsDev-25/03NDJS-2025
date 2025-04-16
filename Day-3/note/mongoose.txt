@@ -1,0 +1,12 @@
+#*** C'est quoi Mongoose ***#
+
+Mongoose, c'est une bibliothèque JavaScript (ou plus précisément, un ODM – Object Data Modeling) utilisée avec Node.js pour interagir facilement avec une base de données MongoDB.
+
+#*** En gros, ça sert à quoi ? ***#
+Mongoose te permet de :
+
+Définir des schémas pour tes données (comme des modèles avec des types, des validations, etc.)
+
+Faire des opérations CRUD (Create, Read, Update, Delete) super facilement.
+
+Ajouter des méthodes, des middlewares, des hooks, etc., à tes objets pour avoir plus de contrôle.

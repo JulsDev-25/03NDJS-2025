@@ -1,0 +1,32 @@
+#*** C'est quoi express js ***#
+
+Express.js (ou juste Express) est un framework web minimaliste et flexible pour Node.js.
+👉 Il te permet de créer rapidement des applications web ou des API REST sans te prendre la tête avec toute la complexité bas niveau.
+
+Pourquoi on l’utilise ?
+Parce que Node.js tout seul, c’est un peu brut. Express vient ajouter des outils pour :
+	• Gérer les routes (GET, POST, etc.)
+	• Traiter les requêtes et réponses HTTP
+	• Ajouter des middlewares (auth, logs, parsing JSON, etc.)
+	• Créer facilement des APIs ou des backends de sites web
+
+Pour manipuler la base de donnée MongoDB en express js on utilise le librairie Mongoose
+
+
+#*** Installation d'Express.js ***#
+
+D'abord, il faut installer Node.js si ce n’est pas déjà fait. Ensuite, tu peux initialiser un projet et installer Express.
+a. Créer un dossier pour ton projet :
+
+bash
+mkdir mon-api-express
+cd mon-api-express
+b. Initialiser le projet Node.js :
+
+bash
+npm init -y
+Cela va générer un fichier package.json avec les paramètres par défaut.
+c. Installer Express :
+
+bash
+npm install express

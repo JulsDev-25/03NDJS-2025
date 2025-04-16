@@ -1,0 +1,10 @@
+#*** C'est quoi une route ? ***#
+
+Une route, c’est une règle du genre :
+👉 "Quand quelqu’un fait une requête GET sur /utilisateurs, exécute cette fonction."
+
+
+#*** Installer Express : ***#
+
+bash
+npm install express

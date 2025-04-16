@@ -1,0 +1,51 @@
+#*** Les principales façons de faire de l'asynchrone : ***#
+
+1. Les callbacks (fonctions de rappel)
+👉 C’est la méthode la plus "ancienne" et la plus basique.
+Exemple en JavaScript :
+
+js
+CopierModifier
+setTimeout(() => {
+  console.log("Exécuté après 1 seconde");
+}, 1000);
+🔹 Avantage : Simple à utiliser.
+🔹 Inconvénient : Peut vite devenir illisible ("callback hell").
+
+
+
+2. Les Promises (promesses)
+👉 Introduites pour mieux gérer les opérations asynchrones.
+Exemple :
+
+js
+CopierModifier
+fetch('https://api.example.com/data')
+  .then(response => response.json())
+  .then(data => console.log(data))
+  .catch(err => console.error(err));
+🔹 Avantage : Plus lisible que les callbacks imbriqués.
+🔹 Inconvénient : Peut être complexe à chaîner selon les cas.
+
+
+
+3. async / await
+👉 Syntaxe moderne pour rendre l’asynchrone lisible comme du synchrone.
+Exemple :
+
+js
+CopierModifier
+async function getData() {
+  try {
+    const response = await fetch('https://api.example.com/data');
+    const data = await response.json();
+    console.log(data);
+  } catch (error) {
+    console.error(error);
+  }
+}
+🔹 Avantage : Très lisible, proche du code synchrone.
+🔹 Inconvénient : Doit être utilisé dans une fonction marquée async.
+
+
+Reject: chaine de caractère spécial pour definir les conditions
