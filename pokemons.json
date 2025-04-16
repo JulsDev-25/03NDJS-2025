@@ -1,0 +1,1522 @@
+[
+  {
+    "id": "id: ",
+    "nom": "",
+    "pv": "",
+    "attaque": "",
+    "defense": "",
+    "vitesse": "",
+    "special": "",
+    "total": ""
+  },
+  {
+    "id": "id: 010",
+    "nom": "Chenipan",
+    "pv": "45",
+    "attaque": "30",
+    "defense": "35",
+    "vitesse": "45",
+    "special": "20",
+    "total": "175"
+  },
+  {
+    "id": "id: 013",
+    "nom": "Aspicot",
+    "pv": "40",
+    "attaque": "35",
+    "defense": "30",
+    "vitesse": "50",
+    "special": "20",
+    "total": "175"
+  },
+  {
+    "id": "id: 011",
+    "nom": "Chrysacier",
+    "pv": "50",
+    "attaque": "20",
+    "defense": "55",
+    "vitesse": "30",
+    "special": "25",
+    "total": "180"
+  },
+  {
+    "id": "id: 014",
+    "nom": "Coconfort",
+    "pv": "45",
+    "attaque": "25",
+    "defense": "50",
+    "vitesse": "35",
+    "special": "25",
+    "total": "180"
+  },
+  {
+    "id": "id: 129",
+    "nom": "Magicarpe",
+    "pv": "20",
+    "attaque": "10",
+    "defense": "55",
+    "vitesse": "80",
+    "special": "20",
+    "total": "185"
+  },
+  {
+    "id": "id: 041",
+    "nom": "Nosferapti",
+    "pv": "40",
+    "attaque": "45",
+    "defense": "35",
+    "vitesse": "55",
+    "special": "40",
+    "total": "215"
+  },
+  {
+    "id": "id: 016",
+    "nom": "Roucool",
+    "pv": "40",
+    "attaque": "45",
+    "defense": "40",
+    "vitesse": "56",
+    "special": "35",
+    "total": "216"
+  },
+  {
+    "id": "id: 019",
+    "nom": "Rattata",
+    "pv": "30",
+    "attaque": "56",
+    "defense": "35",
+    "vitesse": "72",
+    "special": "25",
+    "total": "218"
+  },
+  {
+    "id": "id: 039",
+    "nom": "Rondoudou",
+    "pv": "115",
+    "attaque": "45",
+    "defense": "20",
+    "vitesse": "20",
+    "special": "25",
+    "total": "225"
+  },
+  {
+    "id": "id: 050",
+    "nom": "Taupiqueur",
+    "pv": "10",
+    "attaque": "55",
+    "defense": "25",
+    "vitesse": "95",
+    "special": "45",
+    "total": "230"
+  },
+  {
+    "id": "id: 021",
+    "nom": "Piafabec",
+    "pv": "40",
+    "attaque": "60",
+    "defense": "30",
+    "vitesse": "70",
+    "special": "31",
+    "total": "231"
+  },
+  {
+    "id": "id: 032",
+    "nom": "Nidoran♂",
+    "pv": "46",
+    "attaque": "57",
+    "defense": "40",
+    "vitesse": "50",
+    "special": "40",
+    "total": "233"
+  },
+  {
+    "id": "id: 023",
+    "nom": "Abo",
+    "pv": "35",
+    "attaque": "60",
+    "defense": "44",
+    "vitesse": "55",
+    "special": "40",
+    "total": "234"
+  },
+  {
+    "id": "id: 029",
+    "nom": "Nidoran♀",
+    "pv": "55",
+    "attaque": "47",
+    "defense": "52",
+    "vitesse": "41",
+    "special": "40",
+    "total": "235"
+  },
+  {
+    "id": "id: 046",
+    "nom": "Paras",
+    "pv": "35",
+    "attaque": "70",
+    "defense": "55",
+    "vitesse": "25",
+    "special": "55",
+    "total": "240"
+  },
+  {
+    "id": "id: 132",
+    "nom": "Métamorph",
+    "pv": "48",
+    "attaque": "48",
+    "defense": "48",
+    "vitesse": "48",
+    "special": "48",
+    "total": "240"
+  },
+  {
+    "id": "id: 004",
+    "nom": "Salamèche",
+    "pv": "39",
+    "attaque": "52",
+    "defense": "43",
+    "vitesse": "65",
+    "special": "50",
+    "total": "249"
+  },
+  {
+    "id": "id: 037",
+    "nom": "Goupix",
+    "pv": "38",
+    "attaque": "41",
+    "defense": "40",
+    "vitesse": "65",
+    "special": "65",
+    "total": "249"
+  },
+  {
+    "id": "id: 007",
+    "nom": "Carapuce",
+    "pv": "44",
+    "attaque": "48",
+    "defense": "65",
+    "vitesse": "43",
+    "special": "50",
+    "total": "250"
+  },
+  {
+    "id": "id: 048",
+    "nom": "Mimitoss",
+    "pv": "60",
+    "attaque": "55",
+    "defense": "50",
+    "vitesse": "45",
+    "special": "40",
+    "total": "250"
+  },
+  {
+    "id": "id: 052",
+    "nom": "Miaouss",
+    "pv": "40",
+    "attaque": "45",
+    "defense": "35",
+    "vitesse": "90",
+    "special": "40",
+    "total": "250"
+  },
+  {
+    "id": "id: 147",
+    "nom": "Minidraco",
+    "pv": "41",
+    "attaque": "64",
+    "defense": "45",
+    "vitesse": "50",
+    "special": "50",
+    "total": "250"
+  },
+  {
+    "id": "id: 001",
+    "nom": "Bulbizarre",
+    "pv": "45",
+    "attaque": "49",
+    "defense": "49",
+    "vitesse": "45",
+    "special": "65",
+    "total": "253"
+  },
+  {
+    "id": "id: 043",
+    "nom": "Mystherbe",
+    "pv": "45",
+    "attaque": "50",
+    "defense": "55",
+    "vitesse": "30",
+    "special": "75",
+    "total": "255"
+  },
+  {
+    "id": "id: 054",
+    "nom": "Psykokwak",
+    "pv": "50",
+    "attaque": "52",
+    "defense": "48",
+    "vitesse": "55",
+    "special": "50",
+    "total": "255"
+  },
+  {
+    "id": "id: 063",
+    "nom": "Abra",
+    "pv": "25",
+    "attaque": "20",
+    "defense": "15",
+    "vitesse": "90",
+    "special": "105",
+    "total": "255"
+  },
+  {
+    "id": "id: 035",
+    "nom": "Mélofée",
+    "pv": "70",
+    "attaque": "45",
+    "defense": "48",
+    "vitesse": "35",
+    "special": "60",
+    "total": "258"
+  },
+  {
+    "id": "id: 025",
+    "nom": "Pikachu",
+    "pv": "35",
+    "attaque": "55",
+    "defense": "30",
+    "vitesse": "90",
+    "special": "50",
+    "total": "260"
+  },
+  {
+    "id": "id: 056",
+    "nom": "Férosinge",
+    "pv": "40",
+    "attaque": "80",
+    "defense": "35",
+    "vitesse": "70",
+    "special": "35",
+    "total": "260"
+  },
+  {
+    "id": "id: 060",
+    "nom": "Ptitard",
+    "pv": "40",
+    "attaque": "50",
+    "defense": "40",
+    "vitesse": "90",
+    "special": "40",
+    "total": "260"
+  },
+  {
+    "id": "id: 066",
+    "nom": "Machoc",
+    "pv": "70",
+    "attaque": "80",
+    "defense": "50",
+    "vitesse": "35",
+    "special": "35",
+    "total": "270"
+  },
+  {
+    "id": "id: 069",
+    "nom": "Chétiflor",
+    "pv": "50",
+    "attaque": "75",
+    "defense": "35",
+    "vitesse": "40",
+    "special": "70",
+    "total": "270"
+  },
+  {
+    "id": "id: 074",
+    "nom": "Racaillou",
+    "pv": "40",
+    "attaque": "80",
+    "defense": "100",
+    "vitesse": "20",
+    "special": "30",
+    "total": "270"
+  },
+  {
+    "id": "id: 081",
+    "nom": "Magnéti",
+    "pv": "25",
+    "attaque": "35",
+    "defense": "70",
+    "vitesse": "45",
+    "special": "95",
+    "total": "270"
+  },
+  {
+    "id": "id: 104",
+    "nom": "Osselait",
+    "pv": "50",
+    "attaque": "50",
+    "defense": "95",
+    "vitesse": "35",
+    "special": "40",
+    "total": "270"
+  },
+  {
+    "id": "id: 116",
+    "nom": "Hypotrempe",
+    "pv": "30",
+    "attaque": "40",
+    "defense": "70",
+    "vitesse": "60",
+    "special": "70",
+    "total": "270"
+  },
+  {
+    "id": "id: 079",
+    "nom": "Ramoloss",
+    "pv": "90",
+    "attaque": "65",
+    "defense": "65",
+    "vitesse": "15",
+    "special": "40",
+    "total": "275"
+  },
+  {
+    "id": "id: 084",
+    "nom": "Doduo",
+    "pv": "35",
+    "attaque": "85",
+    "defense": "45",
+    "vitesse": "75",
+    "special": "35",
+    "total": "275"
+  },
+  {
+    "id": "id: 088",
+    "nom": "Tadmorv",
+    "pv": "80",
+    "attaque": "80",
+    "defense": "50",
+    "vitesse": "25",
+    "special": "40",
+    "total": "275"
+  },
+  {
+    "id": "id: 092",
+    "nom": "Fantominus",
+    "pv": "30",
+    "attaque": "35",
+    "defense": "30",
+    "vitesse": "80",
+    "special": "100",
+    "total": "275"
+  },
+  {
+    "id": "id: 100",
+    "nom": "Voltorbe",
+    "pv": "40",
+    "attaque": "30",
+    "defense": "50",
+    "vitesse": "100",
+    "special": "55",
+    "total": "275"
+  },
+  {
+    "id": "id: 027",
+    "nom": "Sabelette",
+    "pv": "50",
+    "attaque": "75",
+    "defense": "85",
+    "vitesse": "40",
+    "special": "30",
+    "total": "280"
+  },
+  {
+    "id": "id: 058",
+    "nom": "Caninos",
+    "pv": "55",
+    "attaque": "70",
+    "defense": "45",
+    "vitesse": "60",
+    "special": "50",
+    "total": "280"
+  },
+  {
+    "id": "id: 086",
+    "nom": "Otaria",
+    "pv": "65",
+    "attaque": "45",
+    "defense": "55",
+    "vitesse": "45",
+    "special": "70",
+    "total": "280"
+  },
+  {
+    "id": "id: 090",
+    "nom": "Kokiyas",
+    "pv": "30",
+    "attaque": "65",
+    "defense": "100",
+    "vitesse": "40",
+    "special": "45",
+    "total": "280"
+  },
+  {
+    "id": "id: 102",
+    "nom": "Noeunoeuf",
+    "pv": "60",
+    "attaque": "40",
+    "defense": "80",
+    "vitesse": "40",
+    "special": "60",
+    "total": "280"
+  },
+  {
+    "id": "id: 133",
+    "nom": "Évoli",
+    "pv": "55",
+    "attaque": "55",
+    "defense": "50",
+    "vitesse": "55",
+    "special": "65",
+    "total": "280"
+  },
+  {
+    "id": "id: 072",
+    "nom": "Tentacool",
+    "pv": "40",
+    "attaque": "40",
+    "defense": "35",
+    "vitesse": "70",
+    "special": "100",
+    "total": "285"
+  },
+  {
+    "id": "id: 096",
+    "nom": "Soporifik",
+    "pv": "60",
+    "attaque": "48",
+    "defense": "45",
+    "vitesse": "42",
+    "special": "90",
+    "total": "285"
+  },
+  {
+    "id": "id: 118",
+    "nom": "Poissirène",
+    "pv": "45",
+    "attaque": "67",
+    "defense": "60",
+    "vitesse": "63",
+    "special": "50",
+    "total": "285"
+  },
+  {
+    "id": "id: 120",
+    "nom": "Stari",
+    "pv": "30",
+    "attaque": "45",
+    "defense": "55",
+    "vitesse": "85",
+    "special": "70",
+    "total": "285"
+  },
+  {
+    "id": "id: 109",
+    "nom": "Smogo",
+    "pv": "40",
+    "attaque": "65",
+    "defense": "95",
+    "vitesse": "35",
+    "special": "60",
+    "total": "295"
+  },
+  {
+    "id": "id: 017",
+    "nom": "Roucoups",
+    "pv": "63",
+    "attaque": "60",
+    "defense": "55",
+    "vitesse": "71",
+    "special": "50",
+    "total": "299"
+  },
+  {
+    "id": "id: 098",
+    "nom": "Krabby",
+    "pv": "30",
+    "attaque": "105",
+    "defense": "90",
+    "vitesse": "50",
+    "special": "25",
+    "total": "300"
+  },
+  {
+    "id": "id: 138",
+    "nom": "Amonita",
+    "pv": "35",
+    "attaque": "40",
+    "defense": "100",
+    "vitesse": "35",
+    "special": "90",
+    "total": "300"
+  },
+  {
+    "id": "id: 140",
+    "nom": "Kabuto",
+    "pv": "30",
+    "attaque": "80",
+    "defense": "90",
+    "vitesse": "55",
+    "special": "45",
+    "total": "300"
+  },
+  {
+    "id": "id: 012",
+    "nom": "Papilusion",
+    "pv": "60",
+    "attaque": "45",
+    "defense": "50",
+    "vitesse": "70",
+    "special": "80",
+    "total": "305"
+  },
+  {
+    "id": "id: 015",
+    "nom": "Dardargnan",
+    "pv": "65",
+    "attaque": "80",
+    "defense": "40",
+    "vitesse": "75",
+    "special": "45",
+    "total": "305"
+  },
+  {
+    "id": "id: 030",
+    "nom": "Nidorina",
+    "pv": "70",
+    "attaque": "62",
+    "defense": "67",
+    "vitesse": "56",
+    "special": "55",
+    "total": "310"
+  },
+  {
+    "id": "id: 033",
+    "nom": "Nidorino",
+    "pv": "61",
+    "attaque": "72",
+    "defense": "57",
+    "vitesse": "65",
+    "special": "55",
+    "total": "310"
+  },
+  {
+    "id": "id: 108",
+    "nom": "Excelangue",
+    "pv": "90",
+    "attaque": "55",
+    "defense": "75",
+    "vitesse": "30",
+    "special": "60",
+    "total": "310"
+  },
+  {
+    "id": "id: 137",
+    "nom": "Porygon",
+    "pv": "65",
+    "attaque": "60",
+    "defense": "70",
+    "vitesse": "40",
+    "special": "75",
+    "total": "310"
+  },
+  {
+    "id": "id: 083",
+    "nom": "Canarticho",
+    "pv": "52",
+    "attaque": "65",
+    "defense": "55",
+    "vitesse": "60",
+    "special": "58",
+    "total": "315"
+  },
+  {
+    "id": "id: 111",
+    "nom": "Rhinocorne",
+    "pv": "80",
+    "attaque": "85",
+    "defense": "95",
+    "vitesse": "25",
+    "special": "30",
+    "total": "315"
+  },
+  {
+    "id": "id: 044",
+    "nom": "Ortide",
+    "pv": "60",
+    "attaque": "65",
+    "defense": "70",
+    "vitesse": "40",
+    "special": "85",
+    "total": "320"
+  },
+  {
+    "id": "id: 002",
+    "nom": "Herbizarre",
+    "pv": "60",
+    "attaque": "62",
+    "defense": "63",
+    "vitesse": "60",
+    "special": "80",
+    "total": "325"
+  },
+  {
+    "id": "id: 005",
+    "nom": "Reptincel",
+    "pv": "58",
+    "attaque": "64",
+    "defense": "58",
+    "vitesse": "80",
+    "special": "65",
+    "total": "325"
+  },
+  {
+    "id": "id: 008",
+    "nom": "Carabaffe",
+    "pv": "59",
+    "attaque": "63",
+    "defense": "80",
+    "vitesse": "58",
+    "special": "65",
+    "total": "325"
+  },
+  {
+    "id": "id: 064",
+    "nom": "Kadabra",
+    "pv": "40",
+    "attaque": "35",
+    "defense": "30",
+    "vitesse": "105",
+    "special": "120",
+    "total": "330"
+  },
+  {
+    "id": "id: 061",
+    "nom": "Têtarte",
+    "pv": "65",
+    "attaque": "65",
+    "defense": "65",
+    "vitesse": "90",
+    "special": "50",
+    "total": "335"
+  },
+  {
+    "id": "id: 095",
+    "nom": "Onix",
+    "pv": "35",
+    "attaque": "45",
+    "defense": "160",
+    "vitesse": "70",
+    "special": "30",
+    "total": "340"
+  },
+  {
+    "id": "id: 122",
+    "nom": "M. Mime",
+    "pv": "40",
+    "attaque": "45",
+    "defense": "65",
+    "vitesse": "90",
+    "special": "100",
+    "total": "340"
+  },
+  {
+    "id": "id: 124",
+    "nom": "Lippoutou",
+    "pv": "65",
+    "attaque": "50",
+    "defense": "35",
+    "vitesse": "95",
+    "special": "95",
+    "total": "340"
+  },
+  {
+    "id": "id: 020",
+    "nom": "Rattatac",
+    "pv": "55",
+    "attaque": "81",
+    "defense": "60",
+    "vitesse": "97",
+    "special": "50",
+    "total": "343"
+  },
+  {
+    "id": "id: 047",
+    "nom": "Parasect",
+    "pv": "60",
+    "attaque": "95",
+    "defense": "80",
+    "vitesse": "30",
+    "special": "80",
+    "total": "345"
+  },
+  {
+    "id": "id: 067",
+    "nom": "Machopeur",
+    "pv": "80",
+    "attaque": "100",
+    "defense": "70",
+    "vitesse": "45",
+    "special": "50",
+    "total": "345"
+  },
+  {
+    "id": "id: 070",
+    "nom": "Boustiflor",
+    "pv": "65",
+    "attaque": "90",
+    "defense": "50",
+    "vitesse": "55",
+    "special": "85",
+    "total": "345"
+  },
+  {
+    "id": "id: 075",
+    "nom": "Gravalanch",
+    "pv": "55",
+    "attaque": "95",
+    "defense": "115",
+    "vitesse": "35",
+    "special": "45",
+    "total": "345"
+  },
+  {
+    "id": "id: 077",
+    "nom": "Ponyta",
+    "pv": "50",
+    "attaque": "85",
+    "defense": "55",
+    "vitesse": "90",
+    "special": "65",
+    "total": "345"
+  },
+  {
+    "id": "id: 105",
+    "nom": "Ossatueur",
+    "pv": "60",
+    "attaque": "80",
+    "defense": "110",
+    "vitesse": "45",
+    "special": "50",
+    "total": "345"
+  },
+  {
+    "id": "id: 106",
+    "nom": "Kicklee",
+    "pv": "50",
+    "attaque": "120",
+    "defense": "53",
+    "vitesse": "87",
+    "special": "35",
+    "total": "345"
+  },
+  {
+    "id": "id: 107",
+    "nom": "Tygnon",
+    "pv": "50",
+    "attaque": "105",
+    "defense": "79",
+    "vitesse": "76",
+    "special": "35",
+    "total": "345"
+  },
+  {
+    "id": "id: 040",
+    "nom": "Grodoudou",
+    "pv": "140",
+    "attaque": "70",
+    "defense": "45",
+    "vitesse": "45",
+    "special": "50",
+    "total": "350"
+  },
+  {
+    "id": "id: 093",
+    "nom": "Spectrum",
+    "pv": "45",
+    "attaque": "50",
+    "defense": "45",
+    "vitesse": "95",
+    "special": "115",
+    "total": "350"
+  },
+  {
+    "id": "id: 148",
+    "nom": "Draco",
+    "pv": "61",
+    "attaque": "84",
+    "defense": "65",
+    "vitesse": "70",
+    "special": "70",
+    "total": "350"
+  },
+  {
+    "id": "id: 051",
+    "nom": "Triopikeur",
+    "pv": "35",
+    "attaque": "80",
+    "defense": "50",
+    "vitesse": "120",
+    "special": "70",
+    "total": "355"
+  },
+  {
+    "id": "id: 024",
+    "nom": "Arbok",
+    "pv": "60",
+    "attaque": "85",
+    "defense": "69",
+    "vitesse": "80",
+    "special": "65",
+    "total": "359"
+  },
+  {
+    "id": "id: 049",
+    "nom": "Aéromite",
+    "pv": "70",
+    "attaque": "65",
+    "defense": "60",
+    "vitesse": "90",
+    "special": "90",
+    "total": "375"
+  },
+  {
+    "id": "id: 053",
+    "nom": "Persian",
+    "pv": "65",
+    "attaque": "70",
+    "defense": "60",
+    "vitesse": "115",
+    "special": "65",
+    "total": "375"
+  },
+  {
+    "id": "id: 022",
+    "nom": "Rapasdepic",
+    "pv": "65",
+    "attaque": "90",
+    "defense": "65",
+    "vitesse": "100",
+    "special": "61",
+    "total": "381"
+  },
+  {
+    "id": "id: 036",
+    "nom": "Mélodelfe",
+    "pv": "95",
+    "attaque": "70",
+    "defense": "73",
+    "vitesse": "60",
+    "special": "85",
+    "total": "383"
+  },
+  {
+    "id": "id: 057",
+    "nom": "Colossinge",
+    "pv": "65",
+    "attaque": "105",
+    "defense": "60",
+    "vitesse": "95",
+    "special": "60",
+    "total": "385"
+  },
+  {
+    "id": "id: 119",
+    "nom": "Poissoroy",
+    "pv": "80",
+    "attaque": "92",
+    "defense": "65",
+    "vitesse": "68",
+    "special": "80",
+    "total": "385"
+  },
+  {
+    "id": "id: 042",
+    "nom": "Nosferalto",
+    "pv": "75",
+    "attaque": "80",
+    "defense": "70",
+    "vitesse": "90",
+    "special": "75",
+    "total": "390"
+  },
+  {
+    "id": "id: 045",
+    "nom": "Rafflesia",
+    "pv": "75",
+    "attaque": "80",
+    "defense": "85",
+    "vitesse": "50",
+    "special": "100",
+    "total": "390"
+  },
+  {
+    "id": "id: 080",
+    "nom": "Flagadoss",
+    "pv": "95",
+    "attaque": "75",
+    "defense": "110",
+    "vitesse": "30",
+    "special": "80",
+    "total": "390"
+  },
+  {
+    "id": "id: 026",
+    "nom": "Raichu",
+    "pv": "60",
+    "attaque": "90",
+    "defense": "55",
+    "vitesse": "100",
+    "special": "90",
+    "total": "395"
+  },
+  {
+    "id": "id: 082",
+    "nom": "Magnéton",
+    "pv": "50",
+    "attaque": "60",
+    "defense": "95",
+    "vitesse": "70",
+    "special": "120",
+    "total": "395"
+  },
+  {
+    "id": "id: 114",
+    "nom": "Saquedeneu",
+    "pv": "65",
+    "attaque": "55",
+    "defense": "115",
+    "vitesse": "60",
+    "special": "100",
+    "total": "395"
+  },
+  {
+    "id": "id: 117",
+    "nom": "Hypocéan",
+    "pv": "55",
+    "attaque": "65",
+    "defense": "95",
+    "vitesse": "85",
+    "special": "95",
+    "total": "395"
+  },
+  {
+    "id": "id: 125",
+    "nom": "Élektek",
+    "pv": "65",
+    "attaque": "83",
+    "defense": "57",
+    "vitesse": "105",
+    "special": "85",
+    "total": "395"
+  },
+  {
+    "id": "id: 126",
+    "nom": "Magmar",
+    "pv": "65",
+    "attaque": "95",
+    "defense": "57",
+    "vitesse": "93",
+    "special": "85",
+    "total": "395"
+  },
+  {
+    "id": "id: 018",
+    "nom": "Roucarnage",
+    "pv": "83",
+    "attaque": "80",
+    "defense": "75",
+    "vitesse": "91",
+    "special": "70",
+    "total": "399"
+  },
+  {
+    "id": "id: 085",
+    "nom": "Dodrio",
+    "pv": "60",
+    "attaque": "110",
+    "defense": "70",
+    "vitesse": "100",
+    "special": "60",
+    "total": "400"
+  },
+  {
+    "id": "id: 089",
+    "nom": "Grotadmorv",
+    "pv": "105",
+    "attaque": "105",
+    "defense": "75",
+    "vitesse": "50",
+    "special": "65",
+    "total": "400"
+  },
+  {
+    "id": "id: 101",
+    "nom": "Électrode",
+    "pv": "60",
+    "attaque": "50",
+    "defense": "70",
+    "vitesse": "140",
+    "special": "80",
+    "total": "400"
+  },
+  {
+    "id": "id: 028",
+    "nom": "Sablaireau",
+    "pv": "75",
+    "attaque": "100",
+    "defense": "110",
+    "vitesse": "65",
+    "special": "55",
+    "total": "405"
+  },
+  {
+    "id": "id: 055",
+    "nom": "Akwakwak",
+    "pv": "80",
+    "attaque": "82",
+    "defense": "78",
+    "vitesse": "85",
+    "special": "80",
+    "total": "405"
+  },
+  {
+    "id": "id: 065",
+    "nom": "Alakazam",
+    "pv": "55",
+    "attaque": "50",
+    "defense": "45",
+    "vitesse": "120",
+    "special": "135",
+    "total": "405"
+  },
+  {
+    "id": "id: 087",
+    "nom": "Lamantine",
+    "pv": "90",
+    "attaque": "70",
+    "defense": "80",
+    "vitesse": "70",
+    "special": "95",
+    "total": "405"
+  },
+  {
+    "id": "id: 031",
+    "nom": "Nidoqueen",
+    "pv": "90",
+    "attaque": "82",
+    "defense": "87",
+    "vitesse": "76",
+    "special": "75",
+    "total": "410"
+  },
+  {
+    "id": "id: 034",
+    "nom": "Nidoking",
+    "pv": "81",
+    "attaque": "92",
+    "defense": "77",
+    "vitesse": "85",
+    "special": "75",
+    "total": "410"
+  },
+  {
+    "id": "id: 097",
+    "nom": "Hypnomade",
+    "pv": "85",
+    "attaque": "73",
+    "defense": "70",
+    "vitesse": "67",
+    "special": "115",
+    "total": "410"
+  },
+  {
+    "id": "id: 115",
+    "nom": "Kangourex",
+    "pv": "105",
+    "attaque": "95",
+    "defense": "80",
+    "vitesse": "90",
+    "special": "40",
+    "total": "410"
+  },
+  {
+    "id": "id: 113",
+    "nom": "Leveinard",
+    "pv": "250",
+    "attaque": "5",
+    "defense": "5",
+    "vitesse": "50",
+    "special": "105",
+    "total": "415"
+  },
+  {
+    "id": "id: 062",
+    "nom": "Tartard",
+    "pv": "90",
+    "attaque": "85",
+    "defense": "95",
+    "vitesse": "70",
+    "special": "70",
+    "total": "420"
+  },
+  {
+    "id": "id: 068",
+    "nom": "Mackogneur",
+    "pv": "90",
+    "attaque": "130",
+    "defense": "80",
+    "vitesse": "55",
+    "special": "65",
+    "total": "420"
+  },
+  {
+    "id": "id: 071",
+    "nom": "Empiflor",
+    "pv": "80",
+    "attaque": "105",
+    "defense": "65",
+    "vitesse": "70",
+    "special": "100",
+    "total": "420"
+  },
+  {
+    "id": "id: 076",
+    "nom": "Grolem",
+    "pv": "80",
+    "attaque": "110",
+    "defense": "130",
+    "vitesse": "45",
+    "special": "55",
+    "total": "420"
+  },
+  {
+    "id": "id: 078",
+    "nom": "Galopa",
+    "pv": "65",
+    "attaque": "100",
+    "defense": "70",
+    "vitesse": "105",
+    "special": "80",
+    "total": "420"
+  },
+  {
+    "id": "id: 110",
+    "nom": "Smogogo",
+    "pv": "65",
+    "attaque": "90",
+    "defense": "120",
+    "vitesse": "60",
+    "special": "85",
+    "total": "420"
+  },
+  {
+    "id": "id: 123",
+    "nom": "Insécateur",
+    "pv": "70",
+    "attaque": "110",
+    "defense": "80",
+    "vitesse": "105",
+    "special": "55",
+    "total": "420"
+  },
+  {
+    "id": "id: 038",
+    "nom": "Feunard",
+    "pv": "73",
+    "attaque": "76",
+    "defense": "75",
+    "vitesse": "100",
+    "special": "100",
+    "total": "424"
+  },
+  {
+    "id": "id: 003",
+    "nom": "Florizarre",
+    "pv": "80",
+    "attaque": "82",
+    "defense": "83",
+    "vitesse": "80",
+    "special": "100",
+    "total": "425"
+  },
+  {
+    "id": "id: 006",
+    "nom": "Dracaufeu",
+    "pv": "78",
+    "attaque": "84",
+    "defense": "78",
+    "vitesse": "100",
+    "special": "85",
+    "total": "425"
+  },
+  {
+    "id": "id: 009",
+    "nom": "Tortank",
+    "pv": "79",
+    "attaque": "83",
+    "defense": "100",
+    "vitesse": "78",
+    "special": "85",
+    "total": "425"
+  },
+  {
+    "id": "id: 094",
+    "nom": "Ectoplasma",
+    "pv": "60",
+    "attaque": "65",
+    "defense": "60",
+    "vitesse": "110",
+    "special": "130",
+    "total": "425"
+  },
+  {
+    "id": "id: 099",
+    "nom": "Krabboss",
+    "pv": "55",
+    "attaque": "130",
+    "defense": "115",
+    "vitesse": "75",
+    "special": "50",
+    "total": "425"
+  },
+  {
+    "id": "id: 139",
+    "nom": "Amonistar",
+    "pv": "70",
+    "attaque": "60",
+    "defense": "125",
+    "vitesse": "55",
+    "special": "115",
+    "total": "425"
+  },
+  {
+    "id": "id: 127",
+    "nom": "Scarabrute",
+    "pv": "65",
+    "attaque": "125",
+    "defense": "100",
+    "vitesse": "85",
+    "special": "55",
+    "total": "430"
+  },
+  {
+    "id": "id: 134",
+    "nom": "Aquali",
+    "pv": "130",
+    "attaque": "65",
+    "defense": "60",
+    "vitesse": "65",
+    "special": "110",
+    "total": "430"
+  },
+  {
+    "id": "id: 135",
+    "nom": "Voltali",
+    "pv": "65",
+    "attaque": "65",
+    "defense": "60",
+    "vitesse": "130",
+    "special": "110",
+    "total": "430"
+  },
+  {
+    "id": "id: 136",
+    "nom": "Pyroli",
+    "pv": "65",
+    "attaque": "130",
+    "defense": "60",
+    "vitesse": "65",
+    "special": "110",
+    "total": "430"
+  },
+  {
+    "id": "id: 141",
+    "nom": "Kabutops",
+    "pv": "60",
+    "attaque": "115",
+    "defense": "105",
+    "vitesse": "80",
+    "special": "70",
+    "total": "430"
+  },
+  {
+    "id": "id: 143",
+    "nom": "Ronflex",
+    "pv": "160",
+    "attaque": "110",
+    "defense": "65",
+    "vitesse": "30",
+    "special": "65",
+    "total": "430"
+  },
+  {
+    "id": "id: 073",
+    "nom": "Tentacruel",
+    "pv": "80",
+    "attaque": "70",
+    "defense": "65",
+    "vitesse": "100",
+    "special": "120",
+    "total": "435"
+  },
+  {
+    "id": "id: 121",
+    "nom": "Staross",
+    "pv": "60",
+    "attaque": "75",
+    "defense": "85",
+    "vitesse": "115",
+    "special": "100",
+    "total": "435"
+  },
+  {
+    "id": "id: 112",
+    "nom": "Rhinoféros",
+    "pv": "105",
+    "attaque": "130",
+    "defense": "120",
+    "vitesse": "40",
+    "special": "45",
+    "total": "440"
+  },
+  {
+    "id": "id: 142",
+    "nom": "Ptéra",
+    "pv": "80",
+    "attaque": "105",
+    "defense": "65",
+    "vitesse": "130",
+    "special": "60",
+    "total": "440"
+  },
+  {
+    "id": "id: 128",
+    "nom": "Tauros",
+    "pv": "75",
+    "attaque": "100",
+    "defense": "95",
+    "vitesse": "110",
+    "special": "70",
+    "total": "450"
+  },
+  {
+    "id": "id: 131",
+    "nom": "Lokhlass",
+    "pv": "130",
+    "attaque": "85",
+    "defense": "80",
+    "vitesse": "60",
+    "special": "95",
+    "total": "450"
+  },
+  {
+    "id": "id: 059",
+    "nom": "Arcanin",
+    "pv": "90",
+    "attaque": "110",
+    "defense": "80",
+    "vitesse": "95",
+    "special": "80",
+    "total": "455"
+  },
+  {
+    "id": "id: 103",
+    "nom": "Noadkoko",
+    "pv": "95",
+    "attaque": "95",
+    "defense": "85",
+    "vitesse": "55",
+    "special": "125",
+    "total": "455"
+  },
+  {
+    "id": "id: 091",
+    "nom": "Crustabri",
+    "pv": "50",
+    "attaque": "95",
+    "defense": "180",
+    "vitesse": "70",
+    "special": "85",
+    "total": "480"
+  },
+  {
+    "id": "id: 130",
+    "nom": "Léviator",
+    "pv": "95",
+    "attaque": "125",
+    "defense": "79",
+    "vitesse": "81",
+    "special": "100",
+    "total": "480"
+  },
+  {
+    "id": "id: 144",
+    "nom": "Artikodin",
+    "pv": "90",
+    "attaque": "85",
+    "defense": "100",
+    "vitesse": "85",
+    "special": "125",
+    "total": "485"
+  },
+  {
+    "id": "id: 145",
+    "nom": "Électhor",
+    "pv": "90",
+    "attaque": "90",
+    "defense": "85",
+    "vitesse": "100",
+    "special": "125",
+    "total": "490"
+  },
+  {
+    "id": "id: 146",
+    "nom": "Sulfura",
+    "pv": "90",
+    "attaque": "100",
+    "defense": "90",
+    "vitesse": "90",
+    "special": "125",
+    "total": "495"
+  },
+  {
+    "id": "id: 149",
+    "nom": "Dracolosse",
+    "pv": "91",
+    "attaque": "134",
+    "defense": "95",
+    "vitesse": "80",
+    "special": "100",
+    "total": "500"
+  },
+  {
+    "id": "id: 151",
+    "nom": "Mew",
+    "pv": "100",
+    "attaque": "100",
+    "defense": "100",
+    "vitesse": "100",
+    "special": "100",
+    "total": "500"
+  },
+  {
+    "id": "id: 150",
+    "nom": "Mewtwo",
+    "pv": "106",
+    "attaque": "110",
+    "defense": "90",
+    "vitesse": "130",
+    "special": "154",
+    "total": "590"
+  }
+]
