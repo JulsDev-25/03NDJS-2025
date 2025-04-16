@@ -11,7 +11,7 @@ async function main() {
     //récupère les différentes données de chaque éléments
     const columns = $(row).find('td');
 
-    const id = `id: ${$(columns[0]).text().trim()}`; // id du Pokémon
+    const id = $(columns[0]).text().trim(); // id du Pokémon
     const nom = $(columns[2]).text().trim(); // Nom du Pokémon
     const pv = $(columns[3]).text().trim();  // PV
     const attaque = $(columns[4]).text().trim(); // Attaque
