@@ -17,6 +17,17 @@ export const registerUser = async (req, res) => {
             return res.status(400).json({ message: 'Cet email est déjà utilisé' });
         }
 
+        // Vérifier le format de l’email
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(email)) {
+            return res.status(400).json({ message: "Invalid email format" });
+        }
+
+        // Vérifier la longueur du mot de passe
+        if (password.length < 6) {
+            return res.status(400).json({ message: "Password must be at least 6 characters" });
+        }
+
         //hasher le mot de passe
         const hashedPassword = await bcrypt.hash(password, 10)
 
@@ -71,16 +82,16 @@ export const loginUser = async (req, res) => {
 // GET/ me
 export const me = (req, res) => {
     if (req.user) {
-      res.json({
-        _id: req.user._id,
-        email: req.user.email,
-        isAdmin: req.user.isAdmin,
-        created_at: req.user.created_at,
-      });
+        res.json({
+            _id: req.user._id,
+            email: req.user.email,
+            isAdmin: req.user.isAdmin,
+            created_at: req.user.created_at,
+        });
     } else {
-      res.status(404).json({ message: 'User not found' });
+        res.status(404).json({ message: 'User not found' });
     }
-  };
+};
 
 // GET/ users
 // @desc    Get all users
@@ -88,30 +99,29 @@ export const me = (req, res) => {
 // @access  Private
 export const getAllUsers = async (req, res) => {
     try {
-      const users = await User.find().select('-password'); // exclut les mots de passe
-      res.status(200).json(users);
+        const users = await User.find().select('-password'); // exclut les mots de passe
+        res.status(200).json(users);
     } catch (error) {
-      res.status(500).json({ message: 'Server error' });
+        res.status(500).json({ message: 'Server error' });
     }
-  };
+};
 
 // @desc    Delete a user by ID
 // @route   DELETE /api/users/:id
 // @access  Private/Admin
 export const deleteUser = async (req, res) => {
     try {
-      const user = await User.findByIdAndDelete(req.params.id);
-  
-      if (!user) {
-        return res.status(404).json({ message: 'User not found' });
-      }
-  
-      res.status(200).json({ message: 'User deleted successfully' });
+        const user = await User.findByIdAndDelete(req.params.id);
+
+        if (!user) {
+            return res.status(404).json({ message: 'User not found' });
+        }
+
+        res.status(200).json({ message: 'User deleted successfully' });
     } catch (error) {
-      console.error(error);
-      res.status(500).json({ message: 'Server error' });
+        console.error(error);
+        res.status(500).json({ message: 'Server error' });
     }
-  };
-    
-  
-  
+};
+
+
