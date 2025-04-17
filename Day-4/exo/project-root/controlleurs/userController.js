@@ -2,7 +2,7 @@ import bcrypt from "bcryptjs";
 import User from "../models/User.js";
 import { generateToken } from "../utiles/generateToken.js";
 
-//register
+// POST/ register
 export const registerUser = async (req, res) => {
     const { email, password } = req.body;
 
@@ -42,7 +42,7 @@ export const registerUser = async (req, res) => {
     };
 }
 
-//Login
+// POST/ Login
 export const loginUser = async (req, res) => {
     const { email, password } = req.body;
 
@@ -67,3 +67,18 @@ export const loginUser = async (req, res) => {
         res.status(500).json({ message: error.message });
     }
 };
+
+// GET/ me
+export const me = (req, res) => {
+    if (req.user) {
+      res.json({
+        _id: req.user._id,
+        email: req.user.email,
+        isAdmin: req.user.isAdmin,
+        created_at: req.user.created_at,
+      });
+    } else {
+      res.status(404).json({ message: 'User not found' });
+    }
+  };
+  
