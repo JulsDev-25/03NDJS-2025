@@ -1,6 +1,8 @@
 import bcrypt from "bcryptjs";
 import User from "../models/User.js";
+import { generateToken } from "../utiles/generateToken.js";
 
+//register
 export const registerUser = async (req, res) => {
     const { email, password } = req.body;
 
@@ -37,5 +39,31 @@ export const registerUser = async (req, res) => {
     } catch (err) {
         console.error(err);
         res.status(500).json({ message: 'Erreur serveur' });
-    }
+    };
 }
+
+//Login
+export const loginUser = async (req, res) => {
+    const { email, password } = req.body;
+
+    if (!email || !password) {
+        return res.status(400).json({ message: 'Email et mot de passe requis !' });
+    }
+
+    try {
+        const user = await User.findOne({ email });
+
+        if (user && (await bcrypt.compare(password, user.password))) {
+            res.json({
+                _id: user._id,
+                email: user.email,
+                isAdmin: user.isAdmin,
+                token: generateToken(user._id),
+            });
+        } else {
+            res.status(401).json({ message: 'Invalid email or password' });
+        }
+    } catch (error) {
+        res.status(500).json({ message: error.message });
+    }
+};
