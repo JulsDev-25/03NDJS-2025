@@ -1,6 +1,6 @@
 import express from "express";
 import dotenv from "dotenv"
-import connectDB from "./db/connectDB";
+import connectDB from "./db/connectDB.js";
 import userRoutes from './routes/userRoutes.js';
 
 //charger les variables d'evironnement
@@ -11,10 +11,10 @@ connectDB()
 
 const app = express();
 
-app.use(express.json)               // Lire les données JSON envoyé
+app.use(express.json())               // Lire les données JSON envoyé
 app.use('/api/users', userRoutes);  // préfixe pour les routes des tâches
 
-const PORT = process.env.PORT || 5000;
+const PORT = 5000;
 app.listen(PORT, () => {
   console.log(`✅ Server running on port ${PORT}`);
 });
